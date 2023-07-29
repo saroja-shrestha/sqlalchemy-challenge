@@ -65,7 +65,3 @@ Query the dates and temperature observations of the most-active station for the 
 /api/v1.0/ and /api/v1.0//
 
 Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range. For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date. For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
-
-
-#Outcomes:
-![alt text](Images/Outcomes.png)
